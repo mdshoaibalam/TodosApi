@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Tue Apr 03 12:38:01 IST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0162-8a55-7afb-000002a65830 
-on database directory memory:C:\project\TodosApp\target\testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@6b884d57 
-Loaded from jar:file:/C:/project/TodosApp/target/com.todos.api-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.13.1.1.jar!/
+Tue Apr 03 17:39:10 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0162-8b69-346c-0000065c0cc0 
+on database directory memory:C:\project\TodosApp\TodosApi\target\testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@6b884d57 
+Loaded from jar:file:/C:/project/TodosApp/TodosApi/target/com.todos.api-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.13.1.1.jar!/
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_161-b12
-user.dir=C:\project\TodosApp\target
+user.dir=C:\project\TodosApp\TodosApi\target
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
